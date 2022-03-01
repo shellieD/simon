@@ -57,13 +57,13 @@ h2 {
     border-radius: 25%;
     box-sizing: border-box;
     position: absolute;
-    background-color: #E6ECF0;
+    background-color: #8f54db;
     height: 80px;
     width: 80px;
     top: 210px;
     left: 210px;
     text-align: center;
-    color: #445261;
+    color: #fbfdff;
     font-size: 3em;
     padding-top: 10px;
 }
